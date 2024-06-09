@@ -1,4 +1,7 @@
 churn/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-report/
+*.ppt
+*.pptx
+*.pdf
+*.docx
